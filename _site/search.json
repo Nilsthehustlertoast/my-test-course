@@ -7,13 +7,6 @@
     "text": "In diesem Kurs widmen wir uns genau dieser Frage. Du startest ohne Programmierkenntnisse, arbeitest dich in Python und die Grundlagen der Unternehmensgründung ein, baust mit KI-Tools und Low-Code-Plattformen einen Software-Prototyp und hast am Ende ein funktionsfähiges MVP plus einen fundierten Business Case mit Pitch in der Hand."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html#wie-wird-aus-einer-digitalen-idee-ein-echtes-produkt",
     "href": "index.html#wie-wird-aus-einer-digitalen-idee-ein-echtes-produkt",
     "title": "Von der Idee zum Unternehmen",
@@ -54,5 +47,12 @@
     "title": "Von der Idee zum Unternehmen",
     "section": "Dozierende",
     "text": "Dozierende\nDr. Nils Roemer – Co-Founder, Planningio GmbH\nDr. Tobias Vlćek – Founder, BeyondSimulations GmbH & Universität Hamburg"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
